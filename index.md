@@ -7,4 +7,4 @@ title: Home
 - Project 2: a pixel story game
 ## About Me
 Click here to learn more → [About Me](about.md)
-[About Me](about.md) 
+[Coding Notebook](notebook.md) 
