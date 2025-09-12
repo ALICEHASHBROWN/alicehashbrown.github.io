@@ -2,7 +2,7 @@
 
 ---
 # About Me
-Hello! I am lily or alice
+Hello! I am lily 
 
 The things I favor a lot is cartoon, games, drawing and anime. I love to out on arcades or claw areas. I have 2 dogs chika and princess they are brats but sweet.
 My first choice is to make commissions for people with art. I've practiced art at a very young age up to now and my love for it grew. I still need to learn how in depth I can achieve with art as well as understand how advertising shows my art. Art is something I genuinely enjoy, so to express myself as my job would be a dream. Although it is recommended to find a job to help support my commissions which is something I am willing to understand and apply to help my ideal job. 
