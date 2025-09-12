@@ -2,13 +2,13 @@
 
 ## Table of Contents
 - [Binary Notes](#Binary-notes)
-  - [Notes](#notes)
+- [Binary Flippy-do/number system](#binary-flippy-do-with-number-system)
   - [Practice](#practice)
-- [Day 2](#day-2)
+- [Code Definitions](#code_definitions)
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   
 ## Binary notes
-### Binary Flippy-do/number system 
+### Binary Flippy-do with number system 
 Binary is zero or one
 Binary is a number system that uses zero and one
 
@@ -28,8 +28,38 @@ Add up the values to get the answer:
 00111011=59
 0100111=39
 
-## Day 2
-Notes for the day
+
+
+
+
+
+
+
+## Code Definitions
+
+| Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
+|------|------------|--------------------------|-------------------|-------------|
+|variable| A named container used to store a value that may change. | `var x = 5;` |time|  |
+|constant| A fixed value that cannot change once set. | `const PI = 3.14;` |logo,backgroundcolor|  |
+|Data Type| The kind of value a variable holds, like numbers or text. | `int`, `String`, `bool` |movies,images|  |
+|string | A sequence of characters used to represent words or text. | `"Hello World"` |comments|  |
+|Integer| Whole number values. | `int age = 16;` |level count|  |
+|Double| Number values with decimals. | `double age = 16.2;` |money,timer|  |
+|boolean| A value that can be true or false. | `bool isLoggedIn = false;` |test,desions|  |
+|list| A collection of values in a specific order. | `List<String> names = [];` |grocery list, orginaztion|  |
+|null| A special value that means “nothing.” | `String? name = null;` |the bar for adding things like typing in username|  |
+|funtion| A reusable block of code that performs an action. | `void sayHi() { print("Hi"); }` |switch that turns on all lights|  |
+|Parameter| The information passed into a function to change how it works. | `greet(String name)` |signing into a account|  |
+|return| The result a function gives back. | `return total;` |like shooting a charater then seeing a hit or not|  |
+|scope| Where a variable or function can be used. | (No set syntax — concept-based) |gift cards|  |
+|class| Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |school,job|  |
+|object| A specific version of a class. | `Dog myDog = Dog();` |like a cookie cutter|  |
+|property| A variable that belongs to a class/object. | `String name;` |class has stubents but the stubents have differnt things|  |
+|Method| A function that belongs to a class. | `void bark() {}` |like differ  |  |
+|      | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
+|      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
+|      | Changing how a built-in or inherited function behaves. | `@override` |  |  |
+|      | A function that does not return a value. | `void printMessage() {}` |  |  |
 
 
 
