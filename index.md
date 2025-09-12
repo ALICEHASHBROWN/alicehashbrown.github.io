@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
---- # Welcome to My Portfolio Hello! My name is lily or alice
+--- # Welcome to My Portfolio Hello! My name is lily 
 ## Projects
 - Project 1: a horror pixel game
 - Project 2: a pixel story game
