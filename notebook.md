@@ -79,11 +79,11 @@ Convert 2989 from decimal (base 10) to hexadecimal (base 16)
 |class| Blueprint for creating objects with specific structure and behavior. | `class Dog {}` |school,job|  |
 |object| A specific version of a class. | `Dog myDog = Dog();` |like a cookie cutter|  |
 |property| A variable that belongs to a class/object. | `String name;` |class has stubents but the stubents have differnt things|  |
-|Method| A function that belongs to a class. | `void bark() {}` |like differ  |  |
-|      | A special function used to set up a class when it’s created. | `Dog(this.name);` |  |  |
-|      | Hiding the inner workings of code so users only interact with what they need. | (Concept — not specific code) |  |  |
-|      | Changing how a built-in or inherited function behaves. | `@override` |  |  |
-|      | A function that does not return a value. | `void printMessage() {}` |  |  |
+|Method| A function that belongs to a class. | `void bark() {}` | things you can do with objects  |  |
+|constructor| A special function used to set up a class when it’s created. | `Dog(this.name);` |creates things like a google doc|  |
+|abstraction|Hiding the inner workings of code so users only interact with what they need.|(Concept — not specific code)|like hitting x for jump but you dont see the code|  |
+|override| Changing how a built-in or inherited function behaves. | `@override` |like how flash can run faster then others|  |
+|void| A function that does not return a value. | `void printMessage() {}` |like speaking in the wood and not expecting any response|  |
 
 
 
