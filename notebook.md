@@ -154,6 +154,17 @@ if(condition)
 % is modulus.
 It gets the remainder when divding by the 2nd number.
 
+{ curly braket 
+} closed curly braket
+
+// == cheaks for equality in nums, true/false, char
+//word.equals(word2) to cheak if the value of Strings are equal
+
+&& and operator: true && true = true, true && false = false
+|| or operator : true || true = true, true || false
+!= not equal operator
+! not operator
+
 
 
 
