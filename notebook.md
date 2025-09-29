@@ -151,6 +151,9 @@ if(condition)
 >= greater than or equal
 <=less than or equal
 
+% is modulus.
+It gets the remainder when divding by the 2nd number.
+
 
 
 
