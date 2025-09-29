@@ -7,6 +7,7 @@
 - [Coding](#coding)
 - [Code Definitions](#code-definitions)
 - [Peseudocode and Java Table](#pseudocode-java-reference)
+- [conditionals](#conditionals) 
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
   
@@ -128,6 +129,29 @@ examples: int, char, boolean, double
 **Pointer Datatype**
 object datatype, they're too big for 1 byte, so instead of storing the data, it stores a pointer, which points to the memory location of the data
 examples: String ArrayList, and objects created from a class.
+
+
+
+## Conditionals
+conditional notes: how we cheak for true or false 
+
+if(condition)
+{
+	//do if condition is true
+} else if (nextCondition)
+{
+//do if condition is false but nextCondition is true
+} else
+{
+	//do if all prior conditions are false
+}
+
+>greater then
+<less then
+>= greater than or equal
+<=less than or equal
+
+
 
 
 
