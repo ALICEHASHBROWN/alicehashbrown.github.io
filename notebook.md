@@ -161,9 +161,12 @@ It gets the remainder when divding by the 2nd number.
 //word.equals(word2) to cheak if the value of Strings are equal
 
 && and operator: true && true = true, true && false = false
-|| or operator : true || true = true, true || false
-!= not equal operator
-! not operator
+|| or operator : true || true = true, true || false = true
+!= not equal operator: true != false = true, true != true = false
+! not operator: !(true) = false, !(false) = true
+
+
+*/
 
 
 
