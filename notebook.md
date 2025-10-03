@@ -7,7 +7,8 @@
 - [Coding](#coding)
 - [Code Definitions](#code-definitions)
 - [Peseudocode and Java Table](#pseudocode-java-reference)
-- [conditionals](#conditionals) 
+- [conditionals](#conditionals)
+- [funtions](#funtionsprocedures)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 
   
@@ -167,6 +168,53 @@ It gets the remainder when divding by the 2nd number.
 
 
 */
+
+### Funtions/procedures
+
+Base structure:
+AccessModifier static* returnType funtioName(parameter(s) dataType parameter1, dataType parameter)
+{
+ 
+ //body of funtion, write code block here
+ }
+ Defining the parts of the funtion:
+ AccessModifier:
+  public: can be accessed outside of the file/class - standard
+  private: can only be accessed within the flie/class
+
+  Static: common, but optional, means that it can be used outside of a class
+
+  ReturnType: the datatype to be retuned by the funtion: int, data, string, student, car, ect.
+  Void returntype means nothing will be returned.
+
+
+  FuntionName: name of the funtion, should be descriptive of the purpose of the funtion
+  parameters: in the parenthesis (), defines the data required to change the behavior of the funtion
+  Body: within curly brackets {} and contains the code that runs when the funtion is used
+
+  //Example:
+  '''java
+  public static void greet(String name)
+  {
+    System.out.println("Hello,"+ name + "!");
+	}
+
+	public double multiply(double x, double y)
+	{
+	       return x"y;
+	}
+
+	public static void sayHello()
+	{
+	  System.out.println("hello");
+	  }
+
+	  ...
+  
+ 
+
+
+
 
 
 
