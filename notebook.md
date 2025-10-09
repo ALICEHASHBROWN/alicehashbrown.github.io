@@ -210,7 +210,14 @@ AccessModifier static* returnType funtioName(parameter(s) dataType parameter1, d
 	  }
 
 	  ...
-  
+
+  public static int RollDie()
+{		//from 10 to 100 inclusive/exclusive
+	return (int)Math.random()*6 + 1
+}
+//formula Math.Random() * (max - min) + min + 1 if inclusive
+//Math.random() * (max - min) + min if exclusive
+
  
 
 
