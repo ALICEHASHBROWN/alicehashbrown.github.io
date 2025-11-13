@@ -86,7 +86,8 @@ Convert 2989 from decimal (base 10) to hexadecimal (base 16)
 |abstraction|Hiding the inner workings of code so users only interact with what they need.|(Concept — not specific code)|like hitting x for jump but you dont see the code|  |
 |override| Changing how a built-in or inherited function behaves. | `@override` |like how flash can run faster then others|  |
 |void| A function that does not return a value. | `void printMessage() {}` |like speaking in the wood and not expecting any response|  |
-
+| Algorithms | Define step by step processes to follow when completing a task or solving a problem | no syntax | Make a grilled cheese | Verify user |
+| Sequencing | Define an order for when steps in an algorithm are completed | Follows 1, 2, 3 | which step comes first in making a grilled cheese | Get bread, add butter, add cheese |
 
 
 
