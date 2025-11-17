@@ -10,6 +10,7 @@
 - [conditionals](#conditionals)
 - [funtions](#funtionsprocedures)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+- [Algorithm Notes](#algorithm-notes)
 
   
 ## Binary notes
@@ -90,7 +91,13 @@ Convert 2989 from decimal (base 10) to hexadecimal (base 16)
 | Sequencing | Define an order for when steps in an algorithm are completed | Follows 1, 2, 3 | which step comes first in making a grilled cheese | Get bread, add butter, add cheese |
 
 
+## Algorithm Notes
 
+### Ouestions to ask when Solving
+- where is the data coming from for the algorithm?
+- am i writing it in my program?
+- am i asking my user to input it?
+- am i pulling it in from an outside sourse for file?
 
 ## Pseudocode Java Reference  
 
