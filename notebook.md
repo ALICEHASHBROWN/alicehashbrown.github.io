@@ -11,6 +11,8 @@
 - [funtions](#funtionsprocedures)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
 - [Algorithm Notes](#algorithm-notes)
+ - [Loop Structures](#loop-structures)
+
 
   
 ## Binary notes
@@ -226,6 +228,54 @@ AccessModifier static* returnType funtioName(parameter(s) dataType parameter1, d
 //formula Math.Random() * (max - min) + min + 1 if inclusive
 //Math.random() * (max - min) + min if exclusive
 
+
+## Loop Structures
+
+For loop: Write what each part of the loop does in the fill in the blank section
+for (int i = 0; i < 5; i++) { ... }
+
+for: start of the “for” loop
+
+( ): contains loop controls
+
+int i = 0: control variable / counter
+
+i < 5: condition that runs loop if true, stops when false
+
+i++: increases i by 1
+
+;: end of section/divider
+
+While loop: Write what each part of the loop does in the fill in the blank section
+
+while (i < 5) { ... }
+
+while: Specifies while type, runs the loop while the condition is true
+( ): contains the condition, loop runs while true
+I < 5: is the condition which controls the loop
+{  }: starts and ends the body of the loop
+Condition is checked (before / after): before, loop will not run if false
+
+
+
+Do-while loop: Write what each part of the loop does in the fill in the blank section
+do { ... } while (keepGoing);
+
+Runs body at least once? (Yes/No): yes
+
+Condition checked (before / after): after
+
+Enhanced for loop/for each loop
+for (String t : list) { ... }
+
+For each String, called t, within the list, “list”, do the body
+(    ): specify the dataType in the list, 
+String: dataType within the list
+t: variable name for each object within the list
+: (the colon): separates the variable and the list
+list: name of the list to be traversed (each object accessed)
+This accesses: every element (which elements?)
+t represents: the current element (what each time?)
  
 
 
